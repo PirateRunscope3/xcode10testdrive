@@ -4,10 +4,28 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Xcode10TestDrive.xcscheme</key>
+		<key>Xcode10TestDrive.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>B989152720C97E7C0034AF01</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B989153E20C97E7D0034AF01</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B989154920C97E7D0034AF01</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
